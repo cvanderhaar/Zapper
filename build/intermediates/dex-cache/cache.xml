@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\claytonvdh\Downloads\ZapperDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\claytonvdh\Downloads\ZapperDemo\app\build\intermediates\pre-dexed\debug\classes-47338db32dac5c0699f659c940764ee9be182947.jar" />
+    </item>
+    <item
+        jar="C:\Users\claytonvdh\android-sdks\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\claytonvdh\Downloads\ZapperDemo\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1-81defcb3cc4bf7f2d80cb6696abdea841ec79ba1.jar" />
+    </item>
+    <item
+        jar="C:\Users\claytonvdh\Downloads\ZapperDemo\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\claytonvdh\Downloads\ZapperDemo\app\build\intermediates\pre-dexed\debug\classes-433303f23c5814c67a7d5deeecfbca0a0048cf38.jar" />
+    </item>
+    <item
+        jar="C:\Users\claytonvdh\Downloads\ZapperDemo\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\claytonvdh\Downloads\ZapperDemo\app\build\intermediates\pre-dexed\debug\classes-f011f9f119493b8a4dd03f402e3d6416a1cfdd36.jar" />
+    </item>
+    <item
+        jar="C:\Users\claytonvdh\Downloads\ZapperDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\claytonvdh\Downloads\ZapperDemo\app\build\intermediates\pre-dexed\debug\classes-a81fb198639b130fa87f66aa3470f384d8a3b12b.jar" />
+    </item>
+    <item
+        jar="C:\Users\claytonvdh\Downloads\ZapperDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\claytonvdh\Downloads\ZapperDemo\app\build\intermediates\pre-dexed\debug\classes-7bd295767febf5c4a9645cd85d31f7aafa41773e.jar" />
+    </item>
+    <item
+        jar="C:\Users\claytonvdh\Downloads\ZapperDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\claytonvdh\Downloads\ZapperDemo\app\build\intermediates\pre-dexed\debug\classes-e0d5a0f5c9f826ff9ec86331192d3dc69064fc79.jar" />
+    </item>
+    <item
+        jar="C:\Users\claytonvdh\Downloads\ZapperDemo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\claytonvdh\Downloads\ZapperDemo\app\build\intermediates\pre-dexed\debug\classes-ca2bc89ed116670fbdc4027af6e4dd66bb694beb.jar" />
+    </item>
+    <item
+        jar="C:\Users\claytonvdh\Downloads\ZapperDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\claytonvdh\Downloads\ZapperDemo\app\build\intermediates\pre-dexed\debug\classes-9dbf120c18e5bce992591315f951e3672ad62471.jar" />
+    </item>
+    <item
+        jar="C:\Users\claytonvdh\Downloads\ZapperDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\claytonvdh\Downloads\ZapperDemo\app\build\intermediates\pre-dexed\debug\classes-f748f9866bd97974f5dffafea2f628aa848c2cbf.jar" />
+    </item>
+    <item
+        jar="C:\Users\claytonvdh\Downloads\ZapperDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\claytonvdh\Downloads\ZapperDemo\app\build\intermediates\pre-dexed\debug\classes-577a80e2949f965a8f898ec084cf10e769512402.jar" />
+    </item>
+    <item
+        jar="C:\Users\claytonvdh\Downloads\ZapperDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\claytonvdh\Downloads\ZapperDemo\app\build\intermediates\pre-dexed\debug\classes-0158fe3dd08c3c4bf95a7bc6d3ca4659becb487b.jar" />
+    </item>
+    <item
+        jar="C:\Users\claytonvdh\Downloads\ZapperDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\claytonvdh\Downloads\ZapperDemo\app\build\intermediates\pre-dexed\debug\classes-88fe8b53b31de6497874d0f681a441674d7f324f.jar" />
+    </item>
+
+</items>
